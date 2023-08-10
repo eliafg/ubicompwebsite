@@ -1,0 +1,36 @@
+.container {
+    padding: 20px 0; /* Add some padding to top and bottom */
+}
+
+.total-incidents p {
+    font-size: 3em;
+    margin: 0;
+    font-weight: bold;
+}
+
+.plot {
+    margin: 10px 0;
+}
+.total-incidents {
+    flex-shrink: 0;  /* This prevents the total incidents count from shrinking */
+    text-align: center;
+    margin: 0 12px;  /* Increased margin for better spacing */
+}
+
+.plot-container {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    margin-right: 1%;
+    box-sizing: border-box;
+
+    
+}
+
+.plot-container2 {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    margin-left: 10%;
+    box-sizing: border-box;
+}

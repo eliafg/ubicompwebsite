@@ -1,0 +1,26 @@
+/* Override Bootstrap's default styles */
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+  }
+  
+  /* Customize the table styles */
+  .table {
+    color: #ffffff; /* Text color for the table content */
+  }
+  
+  /* Customize the table header styles */
+  .table thead th {
+    background-color: #333;
+    border-color: #333;
+    color: #ffffff; /* Text color for table headers */
+  }
+  
+  /* Customize the table row styles */
+  .table tbody td {
+    background-color: #444;
+    border-color: #444;
+    color: #ffffff; /* Text color for table cells */
+  }
+  
+  /* Add more styles as needed for other elements */
